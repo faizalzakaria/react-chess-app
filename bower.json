@@ -1,0 +1,22 @@
+{
+  "name": "chess-app",
+  "description": "Chess App",
+  "authors": [
+    "Faizal Zakaria <fzakaria@codegarage.co>"
+  ],
+  "keywords": [
+    "chess",
+    "reactjs"
+  ],
+  "homepage": "http://codegarage.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "PACE": "pace#~1.0.2"
+  }
+}
